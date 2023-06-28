@@ -1,2 +1,3 @@
 # Portfolio
-This is my Portfolio designed using HTML and CSS . It is also one of the tasks under "Bharat Intern".
+This is my Portfolio, designed using HTML and CSS . It's also one of the tasks under "Bharat Intern". I had to complete two task so I opted "Portfolio" and "Netflix" .
+Visit the link through https://ritikraushan95.github.io/Portfolio/
